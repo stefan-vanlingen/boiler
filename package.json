@@ -1,0 +1,30 @@
+{
+  "name": "boiler",
+  "version": "1.0.0",
+  "description": "Boilerplate voor applicaties",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefan-vanlingen/boiler.git"
+  },
+  "keywords": [
+    "boilerplate"
+  ],
+  "author": "Stefan van Lingen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefan-vanlingen/boiler/issues"
+  },
+  "homepage": "https://github.com/stefan-vanlingen/boiler#readme",
+  "devDependencies": {
+    "angular": "^1.6.6",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "jquery": "^3.2.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
