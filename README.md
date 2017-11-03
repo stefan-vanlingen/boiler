@@ -1,2 +1,0 @@
-# boiler
-Boilerplate voor applicaties
